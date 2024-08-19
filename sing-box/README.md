@@ -4,7 +4,7 @@
 ### 安装
 登录ssh连接终端，cd到你想要安装的sing-box的文件夹，然后执行以下命令下载sing-box压缩包
 ```
-wget -O 's-box.zip' 'https://raw.githubusercontent.com/bin862324915/serv00-app/main/sing-box/s-box.zip'
+wget -O 's-box.zip' 'https://raw.githubusercontent.com/phpll/serv00-app/main/sing-box/s-box.zip'
 ```
 执行以下指令解压
 ```
