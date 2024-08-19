@@ -10,7 +10,7 @@
 
 执行以下指令下载哪吒面板的安装包
 ```
-wget https://github.com/bin862324915/serv00-app/releases/download/freebsd/nezha.zip
+wget https://github.com/phpll/serv00-app/releases/download/freebsd/nezha.zip
 ```
 ### 解压
 ```
